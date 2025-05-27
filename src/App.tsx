@@ -17,7 +17,7 @@ function App() {
     Record<string, Item[]>
   >({
     Yogya: [
-      { kebutuhan: "Beras Fortune 5kg", qty: 1, satuan: "Pcs", harga: 74500 },
+      { kebutuhan: "Beras 5kg", qty: 1, satuan: "Pcs", harga: 74500 },
       {
         kebutuhan: "Minyak Sunco 2 Liter",
         qty: 1,
@@ -27,7 +27,7 @@ function App() {
       { kebutuhan: "Indomie Ayam Bawang", qty: 1, satuan: "Pcs", harga: 2950 },
       { kebutuhan: "Indomie Goreng", qty: 1, satuan: "Pcs", harga: 3050 },
       {
-        kebutuhan: "Tepung Terigu Bogasari Segitiga Biru 1Kg",
+        kebutuhan: "Tepung SegitigaBiru 1Kg",
         qty: 1,
         satuan: "Pcs",
         harga: 12950,
@@ -39,10 +39,10 @@ function App() {
         harga: 6950,
       },
       {
-        kebutuhan: "Santan Sasa Kelapa Cair 65 ml",
+        kebutuhan: "Santan Kelapa 65 ml",
         qty: 1,
         satuan: "Pcs",
-        harga: 5300,
+        harga: 5500,
       },
       { kebutuhan: "Masako Ayam", qty: 1, satuan: "Pcs", harga: 10400 },
       {
@@ -58,37 +58,37 @@ function App() {
         harga: 15250,
       },
       {
-        kebutuhan: "Susu Ultra Milk Full Cream 1 Lt",
+        kebutuhan: "Susu Ultra FullCream 1 Lt",
         qty: 1,
         satuan: "Pcs",
         harga: 19000,
       },
       {
-        kebutuhan: "Susu Ultra Milk Chocolate 1Lt",
+        kebutuhan: "Susu Ultra Chocolate 1Lt",
         qty: 1,
         satuan: "Pcs",
         harga: 19000,
       },
       {
-        kebutuhan: "Susu Ultra Milk Mimi Cokelat 125",
+        kebutuhan: "Susu Ultra Mimi Cokelat 125",
         qty: 1,
         satuan: "Pcs",
         harga: 3400,
       },
       {
-        kebutuhan: "Telur Ayam Negeri Timbangan 1kg",
+        kebutuhan: "Telur Ayam 1kg",
         qty: 1,
         satuan: "Kg",
         harga: 30500,
       },
       {
-        kebutuhan: "Ayam Broiler Utuh",
+        kebutuhan: "Ayam Utuh",
         qty: 1,
         satuan: "Pcs",
         harga: 29500,
       },
       {
-        kebutuhan: "Ayam Paha Fillet  /gram",
+        kebutuhan: "Ayam Paha Fillet /gram",
         qty: 1,
         satuan: "Gram",
         harga: 56,
@@ -100,43 +100,43 @@ function App() {
         harga: 168,
       },
       {
-        kebutuhan: "Sabun Biore Active Anti Bacteri 800ML",
+        kebutuhan: "Sabun Biore Active 800ML",
         qty: 1,
         satuan: "Pcs",
         harga: 36900,
       },
       {
-        kebutuhan: "Tisu Mitu Facial 1000G",
+        kebutuhan: "Tisu Mitu 1000G",
         qty: 1,
         satuan: "Pcs",
         harga: 38000,
       },
       {
-        kebutuhan: "Pasta Gigi Sensodyne Repair N Protect 100g",
+        kebutuhan: "Pasta Gigi Sensodyne 100g",
         qty: 1,
         satuan: "Pcs",
         harga: 44000,
       },
       {
-        kebutuhan: "Pewangi So Klin Pewangi Hijab 1.7LT",
+        kebutuhan: "Pewangi SoKlin Hijab 1.7LT",
         qty: 1,
         satuan: "Pcs",
         harga: 18900,
       },
       {
-        kebutuhan: "Sabun Cuci Piring Mama Lime 1500ML",
+        kebutuhan: "Sabun Mama Lime 1500ML",
         qty: 1,
         satuan: "Pcs",
         harga: 22900,
       },
       {
-        kebutuhan: "Shampo Zinc Men Active Cool 6x12ml",
+        kebutuhan: "Shampo ZincMen 6x12ml",
         qty: 1,
         satuan: "Pcs",
         harga: 2900,
       },
       {
-        kebutuhan: "Shampo Rudy Hair Loss Shampoo Ginseng",
+        kebutuhan: "Shampo Rudy Gingseng",
         qty: 1,
         satuan: "Pcs",
         harga: 41900,
